@@ -1,0 +1,26 @@
+#welcome-panel {
+    display: none;
+}
+#wp-admin-bar-updates {
+    display: none !important;
+}
+#wp-admin-bar-wp-mail-smtp-menu {
+    display: none !important;
+}
+#wpfooter {
+    display: none;
+}
+/* Elementor dashboard admin bar (Connect Account) button remove */
+.e-admin-top-bar__bar-button {
+    display: none !important;
+}
+/* Contact form 7 welcome text remove */
+#wpcf7-welcome-panel {
+    display: none !important;
+}
+#wp-version-message {
+    display: none !important;
+}
+/*#adminmenuback {*/
+/*    position: relative !important;*/
+/*}*/

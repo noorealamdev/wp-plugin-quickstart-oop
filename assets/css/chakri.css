@@ -1,0 +1,7 @@
+/* Remove admin bar menu item on frontend*/
+#wp-admin-bar-updates {
+    display: none !important;
+}
+#wp-admin-bar-wp-mail-smtp-menu {
+    display: none !important;
+}
